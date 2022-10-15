@@ -19,6 +19,7 @@ using StringTools;
 	Forever Assets is a class that manages the different asset types, basically a compilation of switch statements that are
 	easy to edit for your own needs. Most of these are just static functions that return information
 **/
+
 class ForeverAssets
 {
 	//
