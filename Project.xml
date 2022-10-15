@@ -8,7 +8,7 @@
 
 	<assets path="assets/android"/>
 
-	<android target-sdk-version = "29"/>
+	<android target-sdk-version="29"/>
 
 	<!-- _________________________ Application Settings _________________________ -->
 
